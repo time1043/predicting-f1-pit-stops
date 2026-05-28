@@ -35,5 +35,5 @@
 
 ## Model
 
-- Start with XGBoost, LightGBM baseline
+- Start with LightGBM / XGBoost / CatBoost baseline
 - Validate with time-based split (not random)
